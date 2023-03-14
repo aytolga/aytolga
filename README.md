@@ -1,4 +1,4 @@
-#Hi, I am Tolga Ay!
+### Hi, I am Tolga Ay!
 
 :mortar_board: Currently, I am studying Electrical-Electronics Engineering
 
